@@ -1,0 +1,9 @@
+{
+    "server":"66.112.219.115",
+    "server_port":4433,
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "password":"admin",
+    "timeout":600,
+    "method":"aes-256-cfb"
+}

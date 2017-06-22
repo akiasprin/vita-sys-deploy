@@ -1,0 +1,9 @@
+{
+    "server":"203.76.244.83",
+    "server_port":8050,
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "password":"ilovejs",
+    "timeout":600,
+    "method":"aes-256-cfb"
+}
